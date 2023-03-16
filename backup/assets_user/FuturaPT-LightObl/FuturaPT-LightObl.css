@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'FuturaPT-LightObl';
+    src: url('FuturaPT-LightOblique.woff2') format('woff2'),
+        url('FuturaPT-LightOblique.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FuturaPT-LightObl';
+    src: url('FuturaPT-LightOblique.woff2') format('woff2'),
+        url('FuturaPT-LightOblique.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
